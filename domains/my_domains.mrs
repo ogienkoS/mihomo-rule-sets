@@ -1,0 +1,12 @@
+version: 2025.06.29
+rules:
+- DOMAIN-SUFFIX,sevstar.net
+- DOMAIN-SUFFIX,x.ai
+- DOMAIN-SUFFIX,grok.com
+- DOMAIN-SUFFIX,api.x.ai
+- DOMAIN-SUFFIX,x.com
+- DOMAIN-SUFFIX,api.x.com
+- DOMAIN-SUFFIX,twitter.com
+- DOMAIN-SUFFIX,grok-xai.world
+- DOMAIN-SUFFIX,cdn.x.ai
+- DOMAIN-SUFFIX,browserleaks.com
